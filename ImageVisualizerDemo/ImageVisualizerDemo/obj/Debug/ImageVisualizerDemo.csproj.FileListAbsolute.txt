@@ -1,0 +1,14 @@
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\bin\Debug\ImageVisualizerDemo.exe.config
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\bin\Debug\ImageVisualizerDemo.exe
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\bin\Debug\ImageVisualizerDemo.pdb
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\obj\Debug\ImageVisualizerDemo.csproj.AssemblyReference.cache
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\obj\Debug\ImageVisualizerDemo.ImageVisualizerDemo.resources
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\obj\Debug\ImageVisualizerDemo.Properties.Resources.resources
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\obj\Debug\ImageVisualizerDemo.csproj.GenerateResource.cache
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\obj\Debug\ImageVisualizerDemo.csproj.CoreCompileInputs.cache
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\obj\Debug\ImageVisualizerDemo.exe
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\obj\Debug\ImageVisualizerDemo.pdb
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\bin\Debug\ImageVisualizer.dll
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\bin\Debug\ImageVisualizer.pdb
+D:\projs_unity\TestSvgSplineCixiu\tianse\ImageVisualizerDemo\ImageVisualizerDemo\obj\Debug\ImageVisualizerDemo.csproj.CopyComplete
