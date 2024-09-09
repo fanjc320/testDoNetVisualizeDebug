@@ -1,0 +1,8 @@
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyFirstVisualizer\bin\Debug\MyFirstVisualizer.dll
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyFirstVisualizer\bin\Debug\MyFirstVisualizer.pdb
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyFirstVisualizer\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyFirstVisualizer\obj\Debug\MyFirstVisualizer.csproj.AssemblyReference.cache
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyFirstVisualizer\obj\Debug\MyFirstVisualizer.csproj.CoreCompileInputs.cache
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyFirstVisualizer\obj\Debug\MyFirstVisualizer.csproj.CopyComplete
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyFirstVisualizer\obj\Debug\MyFirstVisualizer.dll
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyFirstVisualizer\obj\Debug\MyFirstVisualizer.pdb

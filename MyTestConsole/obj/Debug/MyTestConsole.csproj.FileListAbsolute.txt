@@ -1,0 +1,13 @@
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\bin\Debug\MyTestConsole.exe.config
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\bin\Debug\MyTestConsole.exe
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\bin\Debug\MyTestConsole.pdb
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\bin\Debug\MyFirstVisualizer.dll
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\bin\Debug\MyFirstVisualizer.pdb
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\obj\Debug\MyTestConsole.csproj.AssemblyReference.cache
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\obj\Debug\MyTestConsole.Properties.Resources.resources
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\obj\Debug\MyTestConsole.csproj.GenerateResource.cache
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\obj\Debug\MyTestConsole.csproj.CoreCompileInputs.cache
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\obj\Debug\MyTestConsole.csproj.CopyComplete
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\obj\Debug\MyTestConsole.exe
+D:\projs_unity\TestSvgSplineCixiu\tianse\DebugVisualizer\new\MyFirstVisualizerSolution\MyTestConsole\obj\Debug\MyTestConsole.pdb
